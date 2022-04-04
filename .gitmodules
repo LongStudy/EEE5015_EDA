@@ -7,3 +7,9 @@
 [submodule "EEE5015_eda_lab5"]
 	path = EEE5015_eda_lab5
 	url = https://github.com/LongStudy/EEE5015_eda_lab5.git
+[submodule "EEE5015_eda_lab6"]
+	path = EEE5015_eda_lab6
+	url = https://github.com/LongStudy/EEE5015_eda_lab6
+[submodule "EEE5015_eda_lab8"]
+	path = EEE5015_eda_lab8
+	url = https://github.com/LongStudy/EEE5015_eda_lab8
